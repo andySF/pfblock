@@ -1,3 +1,8 @@
 [Custom Hosts 0.1]
 
-.antenaplay.ro
+0.0.0.0 antenaplay.ro
+0.0.0.0 live1ro.antenaplay.ro
+0.0.0.0 live2ro.antenaplay.ro
+0.0.0.0 live3ro.antenaplay.ro
+0.0.0.0 live4ro.antenaplay.ro
+0.0.0.0 ams.creativecdn.com
